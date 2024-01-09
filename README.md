@@ -1,2 +1,1 @@
-# odin-recipes
-odin-project_recipes
+This project closely follows the odin project recipe guide.
